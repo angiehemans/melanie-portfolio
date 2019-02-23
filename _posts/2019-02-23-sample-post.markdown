@@ -1,9 +1,11 @@
 ---
 title: Sample Post
 date: 2019-02-23 19:34:00 Z
-layout: archive
+teaser: "/uploads/airb.jpg"
+Field name: 
+layout: default
 ---
 
-![airb.jpg](/uploads/airb.jpg)
+![sample house](/uploads/airb.jpg)
 
 Heres a sample post
