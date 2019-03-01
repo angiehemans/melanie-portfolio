@@ -36,7 +36,7 @@ image: "/uploads/fox_card_02.jpg"
 
 ![963797_10201190769984141_781507484_o.jpg](/uploads/963797_10201190769984141_781507484_o.jpg)
 
-## Creepy Cute Ghost Valentine's Day Cards
+## DIY Creepy Cute Ghost Valentine's Day Cards
 
 ![ghost_vday_01.jpg](/uploads/ghost_vday_01.jpg)
 
