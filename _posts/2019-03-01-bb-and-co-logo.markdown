@@ -9,11 +9,12 @@ tags:
 image: "/uploads/bbandco_freefonts_colorexploration_v1.gif"
 ---
 
-![bbandco_vector_iterations_v3.gif](/uploads/bbandco_vector_iterations_v3.gif)
-
-![bbandco_logo_iterations.jpg](/uploads/bbandco_logo_iterations.jpg)
+This BB & CO Logo Project was meant to be a rebrand from their original "Boobie Butter" logo. Here you can see the process I undergo to come up with an original design while using inspiration and guidelines given to me by a client.
 
 ![bbandco_vector_iterations_v1.gif](/uploads/bbandco_vector_iterations_v1.gif)
 
-![bbandco_freefonts_colorexploration_v1.gif](/uploads/bbandco_freefonts_colorexploration_v1.gif)
+![bbandco_logo_iterations.jpg](/uploads/bbandco_logo_iterations.jpg)
 
+![bbandco_vector_iterations_v3.gif](/uploads/bbandco_vector_iterations_v3.gif)
+
+![bbandco_freefonts_colorexploration_v1.gif](/uploads/bbandco_freefonts_colorexploration_v1.gif)
