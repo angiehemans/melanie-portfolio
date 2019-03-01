@@ -7,7 +7,7 @@ categories:
 tags:
 - Design
 - Illustration
-image: "/uploads/ghost_vday_12.jpg"
+image: "/uploads/fox_card_02.jpg"
 ---
 
 ## Whimsical Christmas Card Set
