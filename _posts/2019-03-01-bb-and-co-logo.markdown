@@ -6,7 +6,7 @@ categories:
 tags:
 - Design
 - Logo
-image: "/uploads/bbandco_vector_iterations_v3.gif"
+image: "/uploads/bbandco_freefonts_colorexploration_v1.gif"
 ---
 
 ![bbandco_vector_iterations_v3.gif](/uploads/bbandco_vector_iterations_v3.gif)
