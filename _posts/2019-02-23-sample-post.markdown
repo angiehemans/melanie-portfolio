@@ -2,7 +2,7 @@
 title: Sample Post
 date: 2019-02-23 19:34:00 Z
 image: "/uploads/airb.jpg"
-Field name:
+Field name: 
 layout: article
 ---
 
