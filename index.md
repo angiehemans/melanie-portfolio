@@ -1,5 +1,5 @@
 ---
-title: Latest Posts
+title: Portfolio
 permalink: "/"
 layout: archive
 ---
