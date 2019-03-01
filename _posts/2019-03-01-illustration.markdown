@@ -1,6 +1,7 @@
 ---
 title: Illustration
 date: 2019-03-01 03:21:00 Z
+layout: article
 categories:
 - Illustration
 tags:
