@@ -10,6 +10,8 @@ tags:
 image: "/uploads/corasquest_page_13_spread.jpg"
 ---
 
+I use my illustration, and layout design skills to bring these children's books to life!
+
 ## The Clara Project
 
 Front and back cover for this project.
