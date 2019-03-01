@@ -9,6 +9,8 @@ tags:
 image: "/uploads/wedding.jpg"
 ---
 
+While working at Elsa L, I took part in designing these beautiful keepsake book boxes. I had a hand in designing the patterns inside as well as the chosen fonts, colors, and template design.
+
 ![book spines.jpg](/uploads/book%20spines.jpg)
 
 ![wedding.jpg](/uploads/wedding.jpg)
