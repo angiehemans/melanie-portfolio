@@ -32,6 +32,10 @@ image: "/uploads/fox_card_02.jpg"
 
 ![10848873_602927836502921_9206735692227569536_o.jpg](/uploads/10848873_602927836502921_9206735692227569536_o.jpg)
 
+## Happy Halloween Cards
+
+![963797_10201190769984141_781507484_o.jpg](/uploads/963797_10201190769984141_781507484_o.jpg)
+
 ## Creepy Cute Ghost Valentine's Day Cards
 
 ![ghost_vday_01.jpg](/uploads/ghost_vday_01.jpg)
