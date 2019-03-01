@@ -7,7 +7,7 @@ categories:
 tags:
 - Illustration
 - Design
-image: "/uploads/corasquest_page_13_spread.jpg"
+image: "/uploads/pages_01_02.jpg"
 ---
 
 I use my illustration, and layout design skills to bring these children's books to life!
