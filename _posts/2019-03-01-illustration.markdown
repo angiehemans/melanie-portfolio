@@ -5,6 +5,7 @@ categories:
 - Illustration
 tags:
 - Illustration
+layout: article
 image: "/uploads/22140975_10211867234889091_7237157141715366347_n.jpg"
 ---
 
