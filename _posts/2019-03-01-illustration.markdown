@@ -5,8 +5,8 @@ categories:
 - Illustration
 tags:
 - Illustration
+image: "/uploads/whale.jpg"
 layout: article
-image: "/uploads/22140975_10211867234889091_7237157141715366347_n.jpg"
 ---
 
 ![whale.jpg](/uploads/whale.jpg)
