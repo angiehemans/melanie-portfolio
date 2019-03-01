@@ -4,7 +4,7 @@ permalink: "/about/"
 layout: article
 ---
 
-![braid_01.jpg](/uploads/braid_01.jpg)
+![tranquil_inktober_02.jpg](/uploads/tranquil_inktober_02.jpg)
 
 Melanie Berg is  a multifaceted graphic designer who loves to approach design from different perspectives. From illustration to photography to product development.
 
