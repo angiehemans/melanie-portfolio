@@ -13,6 +13,10 @@ layout: article
 
 ![ghost.jpg](/uploads/ghost.jpg)
 
+![themermaidandthemoth_color3 (1).jpg](/uploads/themermaidandthemoth_color3%20(1).jpg)
+
+![marle_color2 (1).jpg](/uploads/marle_color2%20(1).jpg)
+
 ![hilda.jpg](/uploads/hilda.jpg)
 
 ![eclipsa.jpg](/uploads/eclipsa.jpg)
