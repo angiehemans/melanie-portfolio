@@ -7,7 +7,7 @@ categories:
 tags:
 - Illustration
 - Design
-image: "/uploads/pages_01_02.jpg"
+image: "/uploads/gewnandcolored.jpg"
 ---
 
 I use my illustration, and layout design skills to bring these children's books to life!
@@ -15,7 +15,6 @@ I use my illustration, and layout design skills to bring these children's books 
 ## Clara Saint Clair Dominique De La Rue
 
 ![front_and_back_cover.jpg](/uploads/front_and_back_cover.jpg)
-
 
 ![pages_01_02.jpg](/uploads/pages_01_02.jpg)
 ![page_09.jpg](/uploads/page_09.jpg)
@@ -27,3 +26,9 @@ I use my illustration, and layout design skills to bring these children's books 
 ![3 and 4.jpg](/uploads/3%20and%204.jpg)
 
 ![5 and 6.jpg](/uploads/5%20and%206.jpg)
+
+## The Ghost of Gwendolyn Gray 
+
+## ![gewnandcolored.jpg](/uploads/gewnandcolored.jpg)
+
+![Gwendolyn_Sidebyside.jpg](/uploads/Gwendolyn_Sidebyside.jpg)
