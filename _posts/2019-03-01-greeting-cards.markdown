@@ -10,6 +10,8 @@ tags:
 image: "/uploads/fox_card_02.jpg"
 ---
 
+Examples of digitally illustrated, handmade Greeting Cards I created for a personal Etsy Shop I maintained a few years ago.  My most successful cards were custom Bridesmaid card sets, since clients were able to be very detailed in the customization of the figures features and dresses. 
+
 ## Whimsical Christmas Card Set
 
 ![fox_card_02.jpg](/uploads/fox_card_02.jpg)
