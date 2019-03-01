@@ -10,6 +10,10 @@ tags:
 image: "/uploads/corasquest_page_13_spread.jpg"
 ---
 
+## The Clara Project
+
+Front and back cover for this project.
+
 ![front_and_back_cover.jpg](/uploads/front_and_back_cover.jpg)
 
 ![page_09.jpg](/uploads/page_09.jpg)
