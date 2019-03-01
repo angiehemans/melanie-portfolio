@@ -1,9 +1,9 @@
 ---
 title: Sample Post
 date: 2019-02-23 19:34:00 Z
-teaser: "/uploads/airb.jpg"
+image: "/uploads/airb.jpg"
 Field name: 
-layout: default
+layout: article
 ---
 
 ![sample house](/uploads/airb.jpg)
