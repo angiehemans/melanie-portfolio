@@ -1,6 +1,7 @@
 ---
 title: Commissioned Portraits
 date: 2019-05-01 05:47:00 Z
+image: "/uploads/madi_portrait_illustration_final.jpg"
 ---
 
 ![khaleesi_portrait_05.jpg](/uploads/khaleesi_portrait_05.jpg)
