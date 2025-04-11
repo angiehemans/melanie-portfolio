@@ -19,7 +19,8 @@ description:
 logo: 
 teaser: 
 locale: en
-url: 
+url: "https://melanieberg.design"
+baseurl: "" 
 feed:
   path: atom.xml
 sass:
